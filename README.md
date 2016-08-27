@@ -1,7 +1,7 @@
 # MyIntrusionAlarmIdea
 Intrusion Detection Alarm - Detects When Someone OTHER Than I Enter And Speaks Scary Warning!!
 
-Here's my initial take on the logic -- Ideas/Suggestions/Comments Welcome!!
+Here's my initial take on the logic (I'll figure out how to format this correctly later) -- Ideas/Suggestions/Comments Welcome!!
 
 Room Entry Warning System
 
