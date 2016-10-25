@@ -26,7 +26,9 @@ Room Entry Warning System
 #Reset after 1 minute
 
 	#Many thanks to eskimo for suggesting the code beautifier (so it's not too embarrassing to share my project now!) 
-	#and to wireglitch for the V2.0 idea so I can track repeat offenders!!  :-)
+	#and to wireglitch for the V2.0 idea so I can track repeat offenders!!  
+	#And of course, many thanks to tallhouse as well, for posting the project that started the conversation leading 
+	#to these improvements in the first place!!  :-)
 
 	#V2.0 should have a module to detect repeat bluetooth device id's and see who comes and goes as well. Just a thought.  
 	
