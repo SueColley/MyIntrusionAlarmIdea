@@ -25,3 +25,6 @@ Room Entry Warning System
 
 #Reset after 1 minute
 
+#V2.0 should have a module to detect repeat bluetooth device id's and see who comes and goes as well. Just a thought.  
+#(Thanks, wireglitch!!)
+
